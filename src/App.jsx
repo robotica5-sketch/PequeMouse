@@ -1,3 +1,4 @@
+import React from 'react';
 import {useState,useEffect,useRef,useCallback} from 'react';
 import {Home,Volume2,VolumeX,Mouse,Star,Hand,Keyboard,Trophy,ArrowRight,ChevronRight,Check} from 'lucide-react';
 const CREATOR='Profesor Jhilver Eloy Quispe Barraza';
